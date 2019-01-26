@@ -31,6 +31,15 @@ We will use the data for all the course in University of Denver in recent 20 yea
   * Recommended/Not Recommended
 * Course Level(based on course number)
   * Graduate/Undergraduate Level
-
+  
+## **3.Tentative Timeline for the Project**:<br>
+| Activity                            | Estimated Timeline |
+|-------------------------------------|--------------------|
+| Data Collection                     | 2/8/2019           |
+| Data cleanup                        | 2/25/2019          |
+| Transformation                      | 3/1/2019           |
+| Feature engineering                 | 3/3/2019           |
+| Statistical Summary                 | 3/8/2019           |
+| Visualization                       | 3/12/2019          |
 
 
