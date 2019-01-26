@@ -1,5 +1,10 @@
 # DataScienceTool_Project
+## **1.Team member and project objective**:<br>
+RUIWENJIN
+KAIXIN CHENG
+PAVLEEN
 
+Our project objective is to build a class FCQ system for all class in Univeresity of Denver based on the DU database in the past two decades. The purpose of this system is to help student find out the most fit classes for them, this system can help student seethespecific class information like passing rate, instructor, etc. 
 ## **2.DataSet Attributes and Metadata**:<br>
 
 We will use the data for all the course in University of Denver in recent 20 years which includes following Attributes:
